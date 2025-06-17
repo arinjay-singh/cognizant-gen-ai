@@ -1,0 +1,4 @@
+ERROR:root:ZeroDivisionError occurred: float division by zero
+ERROR:root:ValueError occurred: could not convert string to float: 'sdf'
+ERROR:root:ValueError occurred: could not convert string to float: 'sdf'
+ERROR:root:ValueError occurred: could not convert string to float: 'sdfs'
